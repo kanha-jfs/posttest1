@@ -1,0 +1,4 @@
+eureka:
+client:
+registerwitheureka: false
+fetchregistry: false
